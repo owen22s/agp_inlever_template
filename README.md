@@ -43,5 +43,4 @@ Platform:
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
-   [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
    
