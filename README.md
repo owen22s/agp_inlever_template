@@ -37,8 +37,8 @@ Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies k
 
    [Backlog]: <https://unreal-academy.codecks.io/decks/109-product-backlog>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/Design%20Document.png>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
+   [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp>
+   [RetrospectiveVerslagen]: <>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
