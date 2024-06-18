@@ -1,11 +1,11 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Rift Gardian]
+Project team:[Owen, Delysha, Gino, Boris, Jonas, Wessel, Raphael, Max, Eliza, Robin, Safwan, Milan, Dylan, Randy, Phoenix, Florian en Bo]
 
 Platform:
-[jullie platfom]
+[Unreal Engine]
 
 ### Korte omschrijving van de game
-...
+Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies kunt killen
 
 ---
 #### Producten Werkproces 1
