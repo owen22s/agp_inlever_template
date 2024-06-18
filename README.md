@@ -14,6 +14,7 @@ Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies k
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
+| Turret Concept doc (pdf)                  | [TurretDesignDoc] 
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
@@ -38,6 +39,7 @@ Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies k
    [Backlog]: <https://unreal-academy.codecks.io/decks/109-product-backlog>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp>
+   [TurretDesignDoc]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/Turret%20Fuctioneel%20Design.pdf>
    [RetrospectiveVerslagen]: <>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
