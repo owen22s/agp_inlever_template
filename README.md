@@ -1,11 +1,11 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Rift Gardian]
+Project team:[Owen, Delysha, Gino, Boris, Jonas, Wessel, Raphael, Max, Eliza, Robin, Safwan, Milan, Dylan, Randy, Phoenix, Florian en Bo]
 
 Platform:
-[jullie platfom]
+[Unreal Engine]
 
 ### Korte omschrijving van de game
-...
+Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies kunt killen
 
 ---
 #### Producten Werkproces 1
@@ -35,7 +35,7 @@ Platform:
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
+   [Backlog]: <https://unreal-academy.codecks.io/decks/109-product-backlog>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
