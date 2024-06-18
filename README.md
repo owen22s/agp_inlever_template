@@ -37,7 +37,7 @@ Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies k
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://unreal-academy.codecks.io/decks/109-product-backlog>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Logboek]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.pdf>
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp>
    [TurretDesignDoc & Gameplay]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <>
