@@ -23,7 +23,6 @@ Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies k
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
-
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
