@@ -23,8 +23,8 @@ Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies k
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
-| Opnames standups (Teams opnames)                          | [Folder op teams]
+| Opnames sprint retrospectives (Teams opnames)             | [RetroSpectiveVideo]
+| Sprint Review opnamen (deel 2)                            | [SprintReviewDeel2]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
@@ -43,5 +43,6 @@ Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies k
    [RetrospectiveVerslagen]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/SprintReviews%202.4.pdf>
    [ReviewVerslagen]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/SprintReviews%202.4.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [RetroSpectiveVideo]: <https://youtu.be/tIcKZwF1u4c?si=PqCEJt8NpTcvsdns>
+   [SprintReviewDeel2]: <https://youtu.be/pyycWqZBO3M?si=8yBzSsTdi9veinea>
    
