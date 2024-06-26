@@ -43,7 +43,7 @@ Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies k
    [TurretDesignDoc & Gameplay]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/SprintReviews%202.4.pdf>
    [ReviewVerslagen]: <https://github.com/owen22s/agp_inlever_template/blob/master/producten/SprintReviews%202.4.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
+   [Prototype]: <https://we.tl/t-xziP5tbEGN>
    [RetroSpectiveVideo]: <https://youtu.be/tIcKZwF1u4c?si=PqCEJt8NpTcvsdns>
    [SprintReviewDeel1]: <https://youtu.be/nKb4Gkbbw9M?si=qZ7LnYVskwGFWC92>
    [SprintReviewDeel2]: <https://youtu.be/pyycWqZBO3M?si=8yBzSsTdi9veinea>
