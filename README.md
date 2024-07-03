@@ -4,6 +4,8 @@ Project team:[Owen, Delysha, Gino, Boris, Jonas, Wessel, Raphael, Max, Eliza, Ro
 Platform:
 [Unreal Engine]
 
+Project is gemaakt met perforce.
+
 ### Korte omschrijving van de game
 Een VR shooter waar bij je items kan kopen die je kunt gebruiken om de enemies kunt killen
 
